@@ -1,8 +1,8 @@
 #!/bin/bash
 
-INPUT="herobanner_video.MP4"
-OUTPUT_H264="herobanner_video_web.mp4"
-OUTPUT_WEBM="herobanner_video_web.webm"
+INPUT="herobanner_video_web.mp4"
+OUTPUT_H264="herobanner_video_web2.mp4"
+OUTPUT_WEBM="herobanner_video_web2.webm"
 
 echo "=== Optimizing hero banner video for web ==="
 
